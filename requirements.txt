@@ -1,0 +1,7 @@
+cffi==1.17.1
+cryptography==44.0.2
+numpy==2.2.5
+pycparser==2.22
+pydub==0.25.1
+python-dotenv==1.1.0
+sounddevice==0.5.1
